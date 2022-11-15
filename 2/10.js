@@ -1,0 +1,1 @@
+localStorage.getItem('blast')?console.log(localStorage.getItem('blast').slice(localStorage.getItem('blast').indexOf(';')+1)):localStorage.setItem("blast","web-insecure;34829sjdfnsj32984madsdk")
