@@ -1,4 +1,4 @@
-let a=5, b=100, peer = 0
+let a=5, b=20, peer = 0
 
 for(let el =a; el<=b; el++){
     if(el%2==0)
